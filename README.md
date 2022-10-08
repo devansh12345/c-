@@ -1,2 +1,2 @@
 # c-
-system check
+system 123456 check
